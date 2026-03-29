@@ -1,4 +1,4 @@
-# Week {Number}: {Project Title}
+# Week 1: Portfolio
 
 ## Author
 - **Name:** Your Full Name
